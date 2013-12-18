@@ -1,0 +1,5 @@
+E:\VS2010\EncryptDecrypt\EncryptDecrypt\bin\x86\Debug\EncryptDecrypt.dll
+E:\VS2010\EncryptDecrypt\EncryptDecrypt\bin\x86\Debug\EncryptDecrypt.pdb
+E:\VS2010\EncryptDecrypt\EncryptDecrypt\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\VS2010\EncryptDecrypt\EncryptDecrypt\obj\x86\Debug\EncryptDecrypt.dll
+E:\VS2010\EncryptDecrypt\EncryptDecrypt\obj\x86\Debug\EncryptDecrypt.pdb

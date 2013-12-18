@@ -1,0 +1,6 @@
+E:\VS2010\EncryptDecrypt\EncryptDecrypt\bin\Release\EncryptDecrypt.dll
+E:\VS2010\EncryptDecrypt\EncryptDecrypt\bin\Release\EncryptDecrypt.pdb
+E:\VS2010\EncryptDecrypt\EncryptDecrypt\bin\Release\EncryptDecrypt.tlb
+E:\VS2010\EncryptDecrypt\EncryptDecrypt\obj\Release\ResolveAssemblyReference.cache
+E:\VS2010\EncryptDecrypt\EncryptDecrypt\obj\Release\EncryptDecrypt.dll
+E:\VS2010\EncryptDecrypt\EncryptDecrypt\obj\Release\EncryptDecrypt.pdb
